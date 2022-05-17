@@ -1,7 +1,7 @@
 **Dota Coach** is an in-game app that helps you improve your Dota 2 gameplay, medal and MMR.
 
 <p align="center">
-  <img src="./screenshots/dota-coach-main-window.png" alt="Screenshot of Dota Coach client main window." />
+  <img src="/screenshots/dota-coach-main-window.png" alt="Screenshot of Dota Coach client main window." />
 </p>
 
 # Links
