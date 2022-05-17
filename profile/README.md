@@ -9,7 +9,7 @@
 - ### [🌍 Website](https://dota-coach.com/): The Dota Coach website.
 - ### [✨ Twitter](https://twitter.com/coach_dota): You can follow us on Twitter!
 - ### [🔧 Contributing to Dota Coach App's Brain](https://github.com/dota-coach-app/dota-brain/blob/main/README.md): Learn how to contribute to Revolt.
-- ### [🦜 Discussions](https://github.com/orgs/revoltchat/discussions): Request features or ask questions.
+- ### [🦜 Discord Support Server](https://discord.gg/zgrYW8p3kV): Request features or ask questions.
 - ### [😎 Contribute by translating](https://github.com/dota-coach-app/dotaCoach-i18n): Not a Developer? Don't know how to code but knows 2 or more language? Contribute by tranlsating our app!.
 
 # Get Dota Coach
