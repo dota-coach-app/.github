@@ -6,7 +6,7 @@
 
 # Links
 
-- ### [🌍 Website](https://dota-coach.com/): The Dota Coach website.
+- ### [🌍 Website](https://dotacoach.gg): The Dota Coach website.
 - ### [✨ Twitter](https://twitter.com/coach_dota): You can follow us on Twitter!
 - ### [🔧 Contributing to Dota Coach App's Brain](https://github.com/dota-coach-app/dota-brain/blob/main/README.md): Learn how to contribute to Revolt.
 - ### [🦜 Discord Support Server](https://discord.gg/zgrYW8p3kV): Request features or ask questions.
